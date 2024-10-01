@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body{
+background-color: rgb(207, 141, 18);
+}
+ 
+
+
+
+
+canvas {
+  display: block;
+}
+h1 {
+color: rgb(104, 200, 255);
+
+
+}
+h6{
+  color: dimgray;
+  font-style: italic;
+}
